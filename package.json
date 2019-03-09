@@ -1,0 +1,19 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Thinkful Blog API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarL3y/blog-API.git"
+  },
+  "author": "sarL3y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarL3y/blog-API/issues"
+  },
+  "homepage": "https://github.com/sarL3y/blog-API#readme"
+}
