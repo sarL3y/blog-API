@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sarL3y/blog-API/issues"
   },
-  "homepage": "https://github.com/sarL3y/blog-API#readme"
+  "homepage": "https://github.com/sarL3y/blog-API#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
 }
